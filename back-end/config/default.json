@@ -1,0 +1,4 @@
+{
+    "mongoURI":
+    "mongodb+srv://pacuck:12345@mern-pwdki.mongodb.net/test?retryWrites=true&w=majority"
+}
