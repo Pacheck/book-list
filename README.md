@@ -1,2 +1,2 @@
 # book-list
-A CRUD with MERN concetp
+CRUD with MERN concetp
